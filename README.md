@@ -40,8 +40,8 @@ I'm all about **AI, Machine Learning, and Full-Stack Magic**—currently levelin
 **React Native** ([reactnative.dev](https://reactnative.dev/))  
 **Django** & **Flask** ([Django](https://www.djangoproject.com/), [Flask](https://flask.palletsprojects.com/))  
 **MongoDB** & **Firebase** ([MongoDB](https://www.mongodb.com/), [Firebase](https://firebase.google.com/))  
-**LLMs & NLP (LlamaIndex, Langchain)** ([LLamaIndex](https://gpt-index.readthedocs.io/en/latest/))  
-**Cloud Deployments (AWS, GCP)** ([AWS](https://aws.amazon.com/))  
+**LLMs & NLP** ([LLamaIndex](https://gpt-index.readthedocs.io/en/latest/))  
+**Cloud Deployments** ([AWS](https://aws.amazon.com/))  
 **DevOps (Docker, Kubernetes, CI/CD)** ([Docker](https://www.docker.com/))
 
 
