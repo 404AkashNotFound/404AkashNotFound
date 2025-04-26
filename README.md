@@ -35,7 +35,7 @@ I'm all about **AI, Machine Learning, and Full-Stack Magic**—currently levelin
 
 <h2>🎯Technologies I Want to Learn in 2025</h2>
 
-<img align="right" alt="Coding" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=404AkashNotFound&show_icons=true&locale=en&layout=compact&theme=dark" alt="404AkashNotFound Top Langs" />
+<img align="right" alt="404AkashNotFound Top Languages" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404AkashNotFound&layout=compact&theme=dark" />
 
 **React Native** ([reactnative.dev](https://reactnative.dev/))  
 **Django** & **Flask** ([Django](https://www.djangoproject.com/), [Flask](https://flask.palletsprojects.com/))  
